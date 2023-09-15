@@ -1,0 +1,15 @@
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\NQueens.ComCopilot.csproj.AssemblyReference.cache
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\NQueens.ComCopilot.GeneratedMSBuildEditorConfig.editorconfig
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\NQueens.ComCopilot.AssemblyInfoInputs.cache
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\NQueens.ComCopilot.AssemblyInfo.cs
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\NQueens.ComCopilot.csproj.CoreCompileInputs.cache
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\bin\Debug\net7.0\NQueens.ComCopilot.exe
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\bin\Debug\net7.0\NQueens.ComCopilot.deps.json
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\bin\Debug\net7.0\NQueens.ComCopilot.runtimeconfig.json
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\bin\Debug\net7.0\NQueens.ComCopilot.dll
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\bin\Debug\net7.0\NQueens.ComCopilot.pdb
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\NQueens.ComCopilot.dll
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\refint\NQueens.ComCopilot.dll
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\NQueens.ComCopilot.pdb
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\NQueens.ComCopilot.genruntimeconfig.cache
+D:\fumec\TCC\Repositories\NQueens.ComCopilot\NQueens.ComCopilot\NQueens.ComCopilot\obj\Debug\net7.0\ref\NQueens.ComCopilot.dll
